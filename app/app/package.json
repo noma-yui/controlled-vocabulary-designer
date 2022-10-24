@@ -55,7 +55,7 @@
     "@material-ui/icons": "4.9.1",
     "@material-ui/lab": "4.0.0-alpha.58",
     "express": "4.17.1",
-    "forever": "3.0.0",
+    "forever": "3.0.4",
     "webpack-dev-server": "3.11.0",
     "react-window": "1.8.6",
     "axios": "0.21.1",
