@@ -33,7 +33,7 @@
     "cytoscape-dagre": "2.3.0",
     "cytoscape-edgehandles": "3.6.0",
     "cytoscape-klay": "3.1.4",
-    "ejs": "3.1.5",
+    "ejs": "3.1.7",
     "eslint": "7.11.0",
     "eslint-config-google": "0.14.0",
     "eslint-plugin-react": "7.21.5",
